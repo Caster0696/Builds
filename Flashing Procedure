@@ -2,7 +2,7 @@ Clean Flash:
 
 Boot to twrp
 Format data
-Wipe everything except sdcard (if you have sdcard still ignore it)
+Wipe everything except sdcard
 Go to install
 Select rom.zip
 Select add more zip and then select gapps package
